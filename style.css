@@ -1,0 +1,5 @@
+.body{background-image:url("Pintura.jpg");background-position: center;background-size:cover;}
+h1{font-size: 50px;color:cadetblue ;}
+canvas{background-color: beige;border-radius: 10px;}
+button{background-color:cadetblue}
+body{cursor: pointer;}
